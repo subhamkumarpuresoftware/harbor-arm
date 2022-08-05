@@ -1,4 +1,5 @@
 name: CI
+
 env:
    POSTGRESQL_HOST: localhost
    POSTGRESQL_PORT: 5432
